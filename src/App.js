@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import { Container, Row, Col } from 'react-bootstrap';
+import { CustomerTable } from './components/CustomerTable';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+      <Container>
+        <Row>
+          <h2 className={'text-white'} style={{ margin: '20px auto 10px', textAlign: 'center' }}>Customer Rewards Data</h2>
+        </Row>
+        <Row style={{ margin: 0 }}>
+          <p className={'text-white'} style={{ margin: '0 auto 20px', textAlign: 'center' }}>
+            Click the 'details' links to reveal rewards data per customer per month.
+          </p>
+        </Row>
+        {/*<Row style={{ borderBottom: '1px solid #ccc' }}/>*/}
+        <Row style={{ paddingTop: '20px' }}>
+          <Col style={{ padding: 0 }}>
+
+            <CustomerTable/>
+
+          </Col>
+        </Row>
+      </Container>
+
     </div>
   );
 }
-
-export default App;

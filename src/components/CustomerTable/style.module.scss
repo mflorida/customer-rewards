@@ -1,0 +1,22 @@
+.text-center {
+  text-align: center;
+}
+
+.link {
+  display: block;
+  width: 100%;
+  text-align: center;
+  cursor: pointer;
+
+  &:hover {
+    color: #acc9f3;
+  }
+}
+
+.popover {
+  :global {
+    td, th {
+      padding: 3px 8px;
+    }
+  }
+}

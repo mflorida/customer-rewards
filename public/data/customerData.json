@@ -1,0 +1,7038 @@
+[
+  {
+    "username": "geralda_kassia",
+    "firstName": "Geralda",
+    "lastName": "Kassia",
+    "amounts": [
+      {
+        "count": 1,
+        "spent": [
+          322
+        ],
+        "rewards": [
+          494
+        ],
+        "totals": {
+          "spent": 322,
+          "rewards": 494
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          415,
+          77,
+          274,
+          44
+        ],
+        "rewards": [
+          680,
+          27,
+          398,
+          0
+        ],
+        "totals": {
+          "spent": 810,
+          "rewards": 1105
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          110
+        ],
+        "rewards": [
+          70
+        ],
+        "totals": {
+          "spent": 110,
+          "rewards": 70
+        }
+      }
+    ]
+  },
+  {
+    "username": "gena_noni",
+    "firstName": "Gena",
+    "lastName": "Noni",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          229,
+          124,
+          180,
+          77,
+          84,
+          402,
+          169,
+          54,
+          67
+        ],
+        "rewards": [
+          308,
+          98,
+          210,
+          27,
+          34,
+          654,
+          188,
+          4,
+          17
+        ],
+        "totals": {
+          "spent": 1386,
+          "rewards": 1540
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          22,
+          75,
+          250,
+          35,
+          58,
+          195,
+          48,
+          190,
+          230
+        ],
+        "rewards": [
+          0,
+          25,
+          350,
+          0,
+          8,
+          240,
+          0,
+          230,
+          310
+        ],
+        "totals": {
+          "spent": 1103,
+          "rewards": 1163
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          231,
+          73
+        ],
+        "rewards": [
+          312,
+          23
+        ],
+        "totals": {
+          "spent": 304,
+          "rewards": 335
+        }
+      }
+    ]
+  },
+  {
+    "username": "felicdad_emogene",
+    "firstName": "Felicdad",
+    "lastName": "Emogene",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          98,
+          20,
+          61,
+          209
+        ],
+        "rewards": [
+          48,
+          0,
+          11,
+          268
+        ],
+        "totals": {
+          "spent": 388,
+          "rewards": 327
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          112,
+          223
+        ],
+        "rewards": [
+          74,
+          296
+        ],
+        "totals": {
+          "spent": 335,
+          "rewards": 370
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          343,
+          73
+        ],
+        "rewards": [
+          536,
+          23
+        ],
+        "totals": {
+          "spent": 416,
+          "rewards": 559
+        }
+      }
+    ]
+  },
+  {
+    "username": "merle_gelya",
+    "firstName": "Merle",
+    "lastName": "Gelya",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          154,
+          123,
+          91,
+          176,
+          147,
+          63,
+          363
+        ],
+        "rewards": [
+          158,
+          96,
+          41,
+          202,
+          144,
+          13,
+          576
+        ],
+        "totals": {
+          "spent": 1117,
+          "rewards": 1230
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          99,
+          16,
+          177,
+          43,
+          176,
+          122,
+          48,
+          72,
+          15
+        ],
+        "rewards": [
+          49,
+          0,
+          204,
+          0,
+          202,
+          94,
+          0,
+          22,
+          0
+        ],
+        "totals": {
+          "spent": 768,
+          "rewards": 571
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          18,
+          51,
+          79,
+          49,
+          53,
+          186,
+          12,
+          21,
+          90
+        ],
+        "rewards": [
+          0,
+          1,
+          29,
+          0,
+          3,
+          222,
+          0,
+          0,
+          40
+        ],
+        "totals": {
+          "spent": 559,
+          "rewards": 295
+        }
+      }
+    ]
+  },
+  {
+    "username": "adeline_andee",
+    "firstName": "Adeline",
+    "lastName": "Andee",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          88,
+          42,
+          69,
+          148
+        ],
+        "rewards": [
+          38,
+          0,
+          19,
+          146
+        ],
+        "totals": {
+          "spent": 347,
+          "rewards": 203
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          73,
+          232,
+          378
+        ],
+        "rewards": [
+          23,
+          314,
+          606
+        ],
+        "totals": {
+          "spent": 683,
+          "rewards": 943
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          21,
+          174,
+          155,
+          16,
+          56
+        ],
+        "rewards": [
+          0,
+          198,
+          160,
+          0,
+          6
+        ],
+        "totals": {
+          "spent": 422,
+          "rewards": 364
+        }
+      }
+    ]
+  },
+  {
+    "username": "karee_debi",
+    "firstName": "Karee",
+    "lastName": "Debi",
+    "amounts": [
+      {
+        "count": 8,
+        "spent": [
+          10,
+          49,
+          175,
+          222,
+          98,
+          180,
+          233,
+          338
+        ],
+        "rewards": [
+          0,
+          0,
+          200,
+          294,
+          48,
+          210,
+          316,
+          526
+        ],
+        "totals": {
+          "spent": 1305,
+          "rewards": 1594
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          479,
+          33,
+          45
+        ],
+        "rewards": [
+          808,
+          0,
+          0
+        ],
+        "totals": {
+          "spent": 557,
+          "rewards": 808
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          188,
+          76,
+          56,
+          84,
+          212,
+          147,
+          87,
+          103
+        ],
+        "rewards": [
+          226,
+          26,
+          6,
+          34,
+          274,
+          144,
+          37,
+          56
+        ],
+        "totals": {
+          "spent": 953,
+          "rewards": 803
+        }
+      }
+    ]
+  },
+  {
+    "username": "flor_sherline",
+    "firstName": "Flor",
+    "lastName": "Sherline",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          198,
+          272,
+          191,
+          337,
+          104,
+          50,
+          242,
+          322,
+          122
+        ],
+        "rewards": [
+          246,
+          394,
+          232,
+          524,
+          58,
+          0,
+          334,
+          494,
+          94
+        ],
+        "totals": {
+          "spent": 1838,
+          "rewards": 2376
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          150,
+          64,
+          236
+        ],
+        "rewards": [
+          150,
+          14,
+          322
+        ],
+        "totals": {
+          "spent": 450,
+          "rewards": 486
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          68,
+          257,
+          28,
+          203,
+          343,
+          238
+        ],
+        "rewards": [
+          18,
+          364,
+          0,
+          256,
+          536,
+          326
+        ],
+        "totals": {
+          "spent": 1137,
+          "rewards": 1500
+        }
+      }
+    ]
+  },
+  {
+    "username": "kellyann_tracy",
+    "firstName": "Kellyann",
+    "lastName": "Tracy",
+    "amounts": [
+      {
+        "count": 6,
+        "spent": [
+          304,
+          49,
+          209,
+          40,
+          55,
+          70
+        ],
+        "rewards": [
+          458,
+          0,
+          268,
+          0,
+          5,
+          20
+        ],
+        "totals": {
+          "spent": 727,
+          "rewards": 751
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          45,
+          300,
+          206,
+          227,
+          359
+        ],
+        "rewards": [
+          0,
+          450,
+          262,
+          304,
+          568
+        ],
+        "totals": {
+          "spent": 1137,
+          "rewards": 1584
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          235,
+          250,
+          163,
+          97,
+          65,
+          24,
+          142,
+          277
+        ],
+        "rewards": [
+          320,
+          350,
+          176,
+          47,
+          15,
+          0,
+          134,
+          404
+        ],
+        "totals": {
+          "spent": 1253,
+          "rewards": 1446
+        }
+      }
+    ]
+  },
+  {
+    "username": "zita_melicent",
+    "firstName": "Zita",
+    "lastName": "Melicent",
+    "amounts": [
+      {
+        "count": 1,
+        "spent": [
+          294
+        ],
+        "rewards": [
+          438
+        ],
+        "totals": {
+          "spent": 294,
+          "rewards": 438
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          283,
+          83,
+          11,
+          137,
+          91,
+          86,
+          326
+        ],
+        "rewards": [
+          416,
+          33,
+          0,
+          124,
+          41,
+          36,
+          502
+        ],
+        "totals": {
+          "spent": 1017,
+          "rewards": 1152
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          91,
+          18,
+          93,
+          168,
+          93,
+          89,
+          235
+        ],
+        "rewards": [
+          41,
+          0,
+          43,
+          186,
+          43,
+          39,
+          320
+        ],
+        "totals": {
+          "spent": 787,
+          "rewards": 672
+        }
+      }
+    ]
+  },
+  {
+    "username": "joelle_elizabeth",
+    "firstName": "Joelle",
+    "lastName": "Elizabeth",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          14,
+          20,
+          155,
+          354
+        ],
+        "rewards": [
+          0,
+          0,
+          160,
+          558
+        ],
+        "totals": {
+          "spent": 543,
+          "rewards": 718
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          54,
+          113
+        ],
+        "rewards": [
+          4,
+          76
+        ],
+        "totals": {
+          "spent": 167,
+          "rewards": 80
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          53,
+          25,
+          257,
+          259
+        ],
+        "rewards": [
+          3,
+          0,
+          364,
+          368
+        ],
+        "totals": {
+          "spent": 594,
+          "rewards": 735
+        }
+      }
+    ]
+  },
+  {
+    "username": "bobbette_dyann",
+    "firstName": "Bobbette",
+    "lastName": "Dyann",
+    "amounts": [
+      {
+        "count": 5,
+        "spent": [
+          196,
+          169,
+          26,
+          10,
+          236
+        ],
+        "rewards": [
+          242,
+          188,
+          0,
+          0,
+          322
+        ],
+        "totals": {
+          "spent": 637,
+          "rewards": 752
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          220,
+          45,
+          30,
+          55,
+          59,
+          185,
+          26,
+          344
+        ],
+        "rewards": [
+          290,
+          0,
+          0,
+          5,
+          9,
+          220,
+          0,
+          538
+        ],
+        "totals": {
+          "spent": 964,
+          "rewards": 1062
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          76,
+          81,
+          177,
+          200,
+          121
+        ],
+        "rewards": [
+          26,
+          31,
+          204,
+          250,
+          92
+        ],
+        "totals": {
+          "spent": 655,
+          "rewards": 603
+        }
+      }
+    ]
+  },
+  {
+    "username": "shaylyn_kelsy",
+    "firstName": "Shaylyn",
+    "lastName": "Kelsy",
+    "amounts": [
+      {
+        "count": 3,
+        "spent": [
+          378,
+          72,
+          93
+        ],
+        "rewards": [
+          606,
+          22,
+          43
+        ],
+        "totals": {
+          "spent": 543,
+          "rewards": 671
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          61,
+          99,
+          138,
+          152,
+          42,
+          82
+        ],
+        "rewards": [
+          11,
+          49,
+          126,
+          154,
+          0,
+          32
+        ],
+        "totals": {
+          "spent": 574,
+          "rewards": 372
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          127
+        ],
+        "rewards": [
+          104
+        ],
+        "totals": {
+          "spent": 127,
+          "rewards": 104
+        }
+      }
+    ]
+  },
+  {
+    "username": "christan_jackelyn",
+    "firstName": "Christan",
+    "lastName": "Jackelyn",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          261,
+          35,
+          131,
+          51,
+          21,
+          140,
+          277,
+          227,
+          303
+        ],
+        "rewards": [
+          372,
+          0,
+          112,
+          1,
+          0,
+          130,
+          404,
+          304,
+          456
+        ],
+        "totals": {
+          "spent": 1446,
+          "rewards": 1779
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          27,
+          62,
+          437,
+          100,
+          241,
+          145
+        ],
+        "rewards": [
+          0,
+          12,
+          724,
+          50,
+          332,
+          140
+        ],
+        "totals": {
+          "spent": 1012,
+          "rewards": 1258
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          22,
+          20,
+          146,
+          266,
+          14
+        ],
+        "rewards": [
+          0,
+          0,
+          142,
+          382,
+          0
+        ],
+        "totals": {
+          "spent": 468,
+          "rewards": 524
+        }
+      }
+    ]
+  },
+  {
+    "username": "katinka_godiva",
+    "firstName": "Katinka",
+    "lastName": "Godiva",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          202,
+          158,
+          103,
+          306
+        ],
+        "rewards": [
+          254,
+          166,
+          56,
+          462
+        ],
+        "totals": {
+          "spent": 769,
+          "rewards": 938
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          147
+        ],
+        "rewards": [
+          144
+        ],
+        "totals": {
+          "spent": 147,
+          "rewards": 144
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          35,
+          106
+        ],
+        "rewards": [
+          0,
+          62
+        ],
+        "totals": {
+          "spent": 141,
+          "rewards": 62
+        }
+      }
+    ]
+  },
+  {
+    "username": "vivia_malorie",
+    "firstName": "Vivia",
+    "lastName": "Malorie",
+    "amounts": [
+      {
+        "count": 6,
+        "spent": [
+          64,
+          177,
+          204,
+          64,
+          196,
+          141
+        ],
+        "rewards": [
+          14,
+          204,
+          258,
+          14,
+          242,
+          132
+        ],
+        "totals": {
+          "spent": 846,
+          "rewards": 864
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          127,
+          83,
+          25,
+          41,
+          36,
+          190,
+          11,
+          122
+        ],
+        "rewards": [
+          104,
+          33,
+          0,
+          0,
+          0,
+          230,
+          0,
+          94
+        ],
+        "totals": {
+          "spent": 635,
+          "rewards": 461
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          64,
+          143,
+          309,
+          86,
+          134,
+          302
+        ],
+        "rewards": [
+          14,
+          136,
+          468,
+          36,
+          118,
+          454
+        ],
+        "totals": {
+          "spent": 1038,
+          "rewards": 1226
+        }
+      }
+    ]
+  },
+  {
+    "username": "chelsy_fancie",
+    "firstName": "Chelsy",
+    "lastName": "Fancie",
+    "amounts": [
+      {
+        "count": 6,
+        "spent": [
+          43,
+          36,
+          16,
+          81,
+          227,
+          51
+        ],
+        "rewards": [
+          0,
+          0,
+          0,
+          31,
+          304,
+          1
+        ],
+        "totals": {
+          "spent": 454,
+          "rewards": 336
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          29,
+          51,
+          56,
+          78,
+          252,
+          260
+        ],
+        "rewards": [
+          0,
+          1,
+          6,
+          28,
+          354,
+          370
+        ],
+        "totals": {
+          "spent": 726,
+          "rewards": 759
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          66,
+          76,
+          133,
+          75,
+          227,
+          13
+        ],
+        "rewards": [
+          16,
+          26,
+          116,
+          25,
+          304,
+          0
+        ],
+        "totals": {
+          "spent": 590,
+          "rewards": 487
+        }
+      }
+    ]
+  },
+  {
+    "username": "brena_robina",
+    "firstName": "Brena",
+    "lastName": "Robina",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          270,
+          330,
+          152,
+          186,
+          184,
+          121,
+          148,
+          286,
+          194
+        ],
+        "rewards": [
+          390,
+          510,
+          154,
+          222,
+          218,
+          92,
+          146,
+          422,
+          238
+        ],
+        "totals": {
+          "spent": 1871,
+          "rewards": 2392
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          143,
+          170,
+          37,
+          266,
+          112,
+          224,
+          218
+        ],
+        "rewards": [
+          136,
+          190,
+          0,
+          382,
+          74,
+          298,
+          286
+        ],
+        "totals": {
+          "spent": 1170,
+          "rewards": 1366
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          71,
+          24,
+          323,
+          78,
+          34,
+          180,
+          223,
+          212
+        ],
+        "rewards": [
+          21,
+          0,
+          496,
+          28,
+          0,
+          210,
+          296,
+          274
+        ],
+        "totals": {
+          "spent": 1145,
+          "rewards": 1325
+        }
+      }
+    ]
+  },
+  {
+    "username": "kitty_faustina",
+    "firstName": "Kitty",
+    "lastName": "Faustina",
+    "amounts": [
+      {
+        "count": 3,
+        "spent": [
+          67,
+          27,
+          145
+        ],
+        "rewards": [
+          17,
+          0,
+          140
+        ],
+        "totals": {
+          "spent": 239,
+          "rewards": 157
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          130,
+          22,
+          150,
+          31,
+          68,
+          171
+        ],
+        "rewards": [
+          110,
+          0,
+          150,
+          0,
+          18,
+          192
+        ],
+        "totals": {
+          "spent": 572,
+          "rewards": 470
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          122
+        ],
+        "rewards": [
+          94
+        ],
+        "totals": {
+          "spent": 122,
+          "rewards": 94
+        }
+      }
+    ]
+  },
+  {
+    "username": "dorris_glenine",
+    "firstName": "Dorris",
+    "lastName": "Glenine",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          179,
+          294,
+          425,
+          25,
+          26,
+          258,
+          124,
+          15,
+          133
+        ],
+        "rewards": [
+          208,
+          438,
+          700,
+          0,
+          0,
+          366,
+          98,
+          0,
+          116
+        ],
+        "totals": {
+          "spent": 1479,
+          "rewards": 1926
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          216,
+          244,
+          18,
+          194,
+          52,
+          29
+        ],
+        "rewards": [
+          282,
+          338,
+          0,
+          238,
+          2,
+          0
+        ],
+        "totals": {
+          "spent": 753,
+          "rewards": 860
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          397,
+          379,
+          52
+        ],
+        "rewards": [
+          644,
+          608,
+          2
+        ],
+        "totals": {
+          "spent": 828,
+          "rewards": 1254
+        }
+      }
+    ]
+  },
+  {
+    "username": "emogene_kylie",
+    "firstName": "Emogene",
+    "lastName": "Kylie",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          247,
+          132,
+          151,
+          295,
+          210,
+          102,
+          18,
+          27,
+          56
+        ],
+        "rewards": [
+          344,
+          114,
+          152,
+          440,
+          270,
+          54,
+          0,
+          0,
+          6
+        ],
+        "totals": {
+          "spent": 1238,
+          "rewards": 1380
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          67,
+          112,
+          163,
+          38
+        ],
+        "rewards": [
+          17,
+          74,
+          176,
+          0
+        ],
+        "totals": {
+          "spent": 380,
+          "rewards": 267
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          387,
+          153,
+          241,
+          270,
+          219,
+          101,
+          64
+        ],
+        "rewards": [
+          624,
+          156,
+          332,
+          390,
+          288,
+          52,
+          14
+        ],
+        "totals": {
+          "spent": 1435,
+          "rewards": 1856
+        }
+      }
+    ]
+  },
+  {
+    "username": "birgitta_anthiathia",
+    "firstName": "Birgitta",
+    "lastName": "Anthiathia",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          30,
+          298,
+          424,
+          29
+        ],
+        "rewards": [
+          0,
+          446,
+          698,
+          0
+        ],
+        "totals": {
+          "spent": 781,
+          "rewards": 1144
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          386,
+          100,
+          163,
+          106,
+          10,
+          174,
+          26,
+          200,
+          23
+        ],
+        "rewards": [
+          622,
+          50,
+          176,
+          62,
+          0,
+          198,
+          0,
+          250,
+          0
+        ],
+        "totals": {
+          "spent": 1188,
+          "rewards": 1358
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          136
+        ],
+        "rewards": [
+          122
+        ],
+        "totals": {
+          "spent": 136,
+          "rewards": 122
+        }
+      }
+    ]
+  },
+  {
+    "username": "debbie_yolane",
+    "firstName": "Debbie",
+    "lastName": "Yolane",
+    "amounts": [
+      {
+        "count": 1,
+        "spent": [
+          45
+        ],
+        "rewards": [
+          0
+        ],
+        "totals": {
+          "spent": 45,
+          "rewards": 0
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          151,
+          392,
+          98,
+          138,
+          243,
+          336,
+          80,
+          63
+        ],
+        "rewards": [
+          152,
+          634,
+          48,
+          126,
+          336,
+          522,
+          30,
+          13
+        ],
+        "totals": {
+          "spent": 1501,
+          "rewards": 1861
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          245,
+          150,
+          53,
+          110,
+          128
+        ],
+        "rewards": [
+          340,
+          150,
+          3,
+          70,
+          106
+        ],
+        "totals": {
+          "spent": 686,
+          "rewards": 669
+        }
+      }
+    ]
+  },
+  {
+    "username": "sibilla_marquita",
+    "firstName": "Sibilla",
+    "lastName": "Marquita",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          119,
+          325,
+          287,
+          18
+        ],
+        "rewards": [
+          88,
+          500,
+          424,
+          0
+        ],
+        "totals": {
+          "spent": 749,
+          "rewards": 1012
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          123,
+          64,
+          162,
+          156,
+          24,
+          132,
+          206,
+          68,
+          27
+        ],
+        "rewards": [
+          96,
+          14,
+          174,
+          162,
+          0,
+          114,
+          262,
+          18,
+          0
+        ],
+        "totals": {
+          "spent": 962,
+          "rewards": 840
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          99,
+          46,
+          38,
+          139,
+          63,
+          21
+        ],
+        "rewards": [
+          49,
+          0,
+          0,
+          128,
+          13,
+          0
+        ],
+        "totals": {
+          "spent": 406,
+          "rewards": 190
+        }
+      }
+    ]
+  },
+  {
+    "username": "esmeralda_sallyann",
+    "firstName": "Esmeralda",
+    "lastName": "Sallyann",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          150,
+          29
+        ],
+        "rewards": [
+          150,
+          0
+        ],
+        "totals": {
+          "spent": 179,
+          "rewards": 150
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          49,
+          98,
+          95,
+          213,
+          196,
+          389,
+          165,
+          217,
+          44
+        ],
+        "rewards": [
+          0,
+          48,
+          45,
+          276,
+          242,
+          628,
+          180,
+          284,
+          0
+        ],
+        "totals": {
+          "spent": 1466,
+          "rewards": 1703
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          201,
+          85,
+          43,
+          65,
+          56,
+          136
+        ],
+        "rewards": [
+          252,
+          35,
+          0,
+          15,
+          6,
+          122
+        ],
+        "totals": {
+          "spent": 586,
+          "rewards": 430
+        }
+      }
+    ]
+  },
+  {
+    "username": "sibley_orsa",
+    "firstName": "Sibley",
+    "lastName": "Orsa",
+    "amounts": [
+      {
+        "count": 1,
+        "spent": [
+          30
+        ],
+        "rewards": [
+          0
+        ],
+        "totals": {
+          "spent": 30,
+          "rewards": 0
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          379,
+          71,
+          183,
+          214,
+          136,
+          29,
+          183,
+          212,
+          276
+        ],
+        "rewards": [
+          608,
+          21,
+          216,
+          278,
+          122,
+          0,
+          216,
+          274,
+          402
+        ],
+        "totals": {
+          "spent": 1683,
+          "rewards": 2137
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          126,
+          351,
+          83
+        ],
+        "rewards": [
+          102,
+          552,
+          33
+        ],
+        "totals": {
+          "spent": 560,
+          "rewards": 687
+        }
+      }
+    ]
+  },
+  {
+    "username": "belita_ginevra",
+    "firstName": "Belita",
+    "lastName": "Ginevra",
+    "amounts": [
+      {
+        "count": 3,
+        "spent": [
+          155,
+          81,
+          50
+        ],
+        "rewards": [
+          160,
+          31,
+          0
+        ],
+        "totals": {
+          "spent": 286,
+          "rewards": 191
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          13,
+          17,
+          52
+        ],
+        "rewards": [
+          0,
+          0,
+          2
+        ],
+        "totals": {
+          "spent": 82,
+          "rewards": 2
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          119,
+          146
+        ],
+        "rewards": [
+          88,
+          142
+        ],
+        "totals": {
+          "spent": 265,
+          "rewards": 230
+        }
+      }
+    ]
+  },
+  {
+    "username": "cassaundra_lisabeth",
+    "firstName": "Cassaundra",
+    "lastName": "Lisabeth",
+    "amounts": [
+      {
+        "count": 5,
+        "spent": [
+          32,
+          164,
+          29,
+          290,
+          237
+        ],
+        "rewards": [
+          0,
+          178,
+          0,
+          430,
+          324
+        ],
+        "totals": {
+          "spent": 752,
+          "rewards": 932
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          46,
+          65,
+          85
+        ],
+        "rewards": [
+          0,
+          15,
+          35
+        ],
+        "totals": {
+          "spent": 196,
+          "rewards": 50
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          163,
+          163
+        ],
+        "rewards": [
+          176,
+          176
+        ],
+        "totals": {
+          "spent": 326,
+          "rewards": 352
+        }
+      }
+    ]
+  },
+  {
+    "username": "anestassia_barbaraanne",
+    "firstName": "Anestassia",
+    "lastName": "Barbaraanne",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          124,
+          59,
+          88,
+          174,
+          110,
+          187,
+          200,
+          63,
+          55
+        ],
+        "rewards": [
+          98,
+          9,
+          38,
+          198,
+          70,
+          224,
+          250,
+          13,
+          5
+        ],
+        "totals": {
+          "spent": 1060,
+          "rewards": 905
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          363,
+          143,
+          155,
+          86,
+          89,
+          25
+        ],
+        "rewards": [
+          576,
+          136,
+          160,
+          36,
+          39,
+          0
+        ],
+        "totals": {
+          "spent": 861,
+          "rewards": 947
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          259,
+          27
+        ],
+        "rewards": [
+          368,
+          0
+        ],
+        "totals": {
+          "spent": 286,
+          "rewards": 368
+        }
+      }
+    ]
+  },
+  {
+    "username": "sheba_danella",
+    "firstName": "Sheba",
+    "lastName": "Danella",
+    "amounts": [
+      {
+        "count": 8,
+        "spent": [
+          61,
+          298,
+          87,
+          169,
+          118,
+          113,
+          18,
+          238
+        ],
+        "rewards": [
+          11,
+          446,
+          37,
+          188,
+          86,
+          76,
+          0,
+          326
+        ],
+        "totals": {
+          "spent": 1102,
+          "rewards": 1170
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          49,
+          117,
+          60,
+          324,
+          22,
+          142,
+          436,
+          196,
+          145
+        ],
+        "rewards": [
+          0,
+          84,
+          10,
+          498,
+          0,
+          134,
+          722,
+          242,
+          140
+        ],
+        "totals": {
+          "spent": 1491,
+          "rewards": 1830
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          192,
+          30,
+          123,
+          151,
+          144,
+          124
+        ],
+        "rewards": [
+          234,
+          0,
+          96,
+          152,
+          138,
+          98
+        ],
+        "totals": {
+          "spent": 764,
+          "rewards": 718
+        }
+      }
+    ]
+  },
+  {
+    "username": "lea_alfie",
+    "firstName": "Lea",
+    "lastName": "Alfie",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          166,
+          233,
+          46,
+          131,
+          116,
+          106,
+          129
+        ],
+        "rewards": [
+          182,
+          316,
+          0,
+          112,
+          82,
+          62,
+          108
+        ],
+        "totals": {
+          "spent": 927,
+          "rewards": 862
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          73,
+          238,
+          110
+        ],
+        "rewards": [
+          23,
+          326,
+          70
+        ],
+        "totals": {
+          "spent": 421,
+          "rewards": 419
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          80,
+          400,
+          174,
+          56,
+          257
+        ],
+        "rewards": [
+          30,
+          650,
+          198,
+          6,
+          364
+        ],
+        "totals": {
+          "spent": 967,
+          "rewards": 1248
+        }
+      }
+    ]
+  },
+  {
+    "username": "stacy_adria",
+    "firstName": "Stacy",
+    "lastName": "Adria",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          57,
+          58,
+          249,
+          101,
+          105,
+          87,
+          43
+        ],
+        "rewards": [
+          7,
+          8,
+          348,
+          52,
+          60,
+          37,
+          0
+        ],
+        "totals": {
+          "spent": 700,
+          "rewards": 512
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          344,
+          53,
+          71,
+          107,
+          15,
+          12,
+          27
+        ],
+        "rewards": [
+          538,
+          3,
+          21,
+          64,
+          0,
+          0,
+          0
+        ],
+        "totals": {
+          "spent": 629,
+          "rewards": 626
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          241,
+          109,
+          253,
+          196,
+          199,
+          12,
+          363,
+          206
+        ],
+        "rewards": [
+          332,
+          68,
+          356,
+          242,
+          248,
+          0,
+          576,
+          262
+        ],
+        "totals": {
+          "spent": 1579,
+          "rewards": 2084
+        }
+      }
+    ]
+  },
+  {
+    "username": "ginni_lucy",
+    "firstName": "Ginni",
+    "lastName": "Lucy",
+    "amounts": [
+      {
+        "count": 3,
+        "spent": [
+          24,
+          42,
+          192
+        ],
+        "rewards": [
+          0,
+          0,
+          234
+        ],
+        "totals": {
+          "spent": 258,
+          "rewards": 234
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          201,
+          250,
+          20
+        ],
+        "rewards": [
+          252,
+          350,
+          0
+        ],
+        "totals": {
+          "spent": 471,
+          "rewards": 602
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          293,
+          293
+        ],
+        "rewards": [
+          436,
+          436
+        ],
+        "totals": {
+          "spent": 586,
+          "rewards": 872
+        }
+      }
+    ]
+  },
+  {
+    "username": "ninnette_barry",
+    "firstName": "Ninnette",
+    "lastName": "Barry",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          105,
+          67,
+          26,
+          305,
+          262,
+          64,
+          201
+        ],
+        "rewards": [
+          60,
+          17,
+          0,
+          460,
+          374,
+          14,
+          252
+        ],
+        "totals": {
+          "spent": 1030,
+          "rewards": 1177
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          86,
+          340,
+          33,
+          24
+        ],
+        "rewards": [
+          36,
+          530,
+          0,
+          0
+        ],
+        "totals": {
+          "spent": 483,
+          "rewards": 566
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          344,
+          87,
+          138,
+          78,
+          133
+        ],
+        "rewards": [
+          538,
+          37,
+          126,
+          28,
+          116
+        ],
+        "totals": {
+          "spent": 780,
+          "rewards": 845
+        }
+      }
+    ]
+  },
+  {
+    "username": "carolee_lanny",
+    "firstName": "Carolee",
+    "lastName": "Lanny",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          10,
+          291
+        ],
+        "rewards": [
+          0,
+          432
+        ],
+        "totals": {
+          "spent": 301,
+          "rewards": 432
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          115
+        ],
+        "rewards": [
+          80
+        ],
+        "totals": {
+          "spent": 115,
+          "rewards": 80
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          312
+        ],
+        "rewards": [
+          474
+        ],
+        "totals": {
+          "spent": 312,
+          "rewards": 474
+        }
+      }
+    ]
+  },
+  {
+    "username": "yoko_blake",
+    "firstName": "Yoko",
+    "lastName": "Blake",
+    "amounts": [
+      {
+        "count": 6,
+        "spent": [
+          30,
+          142,
+          391,
+          274,
+          29,
+          23
+        ],
+        "rewards": [
+          0,
+          134,
+          632,
+          398,
+          0,
+          0
+        ],
+        "totals": {
+          "spent": 889,
+          "rewards": 1164
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          367,
+          168,
+          181,
+          65,
+          334,
+          36,
+          87,
+          140
+        ],
+        "rewards": [
+          584,
+          186,
+          212,
+          15,
+          518,
+          0,
+          37,
+          130
+        ],
+        "totals": {
+          "spent": 1378,
+          "rewards": 1682
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          69,
+          309,
+          67,
+          33
+        ],
+        "rewards": [
+          19,
+          468,
+          17,
+          0
+        ],
+        "totals": {
+          "spent": 478,
+          "rewards": 504
+        }
+      }
+    ]
+  },
+  {
+    "username": "amitie_albertine",
+    "firstName": "Amitie",
+    "lastName": "Albertine",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          294,
+          111,
+          436,
+          81,
+          59,
+          220,
+          176
+        ],
+        "rewards": [
+          438,
+          72,
+          722,
+          31,
+          9,
+          290,
+          202
+        ],
+        "totals": {
+          "spent": 1377,
+          "rewards": 1764
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          136,
+          56,
+          71,
+          141,
+          150,
+          69,
+          133,
+          168
+        ],
+        "rewards": [
+          122,
+          6,
+          21,
+          132,
+          150,
+          19,
+          116,
+          186
+        ],
+        "totals": {
+          "spent": 924,
+          "rewards": 752
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          171,
+          150,
+          236,
+          107,
+          227,
+          13
+        ],
+        "rewards": [
+          192,
+          150,
+          322,
+          64,
+          304,
+          0
+        ],
+        "totals": {
+          "spent": 904,
+          "rewards": 1032
+        }
+      }
+    ]
+  },
+  {
+    "username": "denyse_beatrisa",
+    "firstName": "Denyse",
+    "lastName": "Beatrisa",
+    "amounts": [
+      {
+        "count": 8,
+        "spent": [
+          121,
+          184,
+          55,
+          225,
+          141,
+          279,
+          223,
+          258
+        ],
+        "rewards": [
+          92,
+          218,
+          5,
+          300,
+          132,
+          408,
+          296,
+          366
+        ],
+        "totals": {
+          "spent": 1486,
+          "rewards": 1817
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          15,
+          175,
+          195,
+          41,
+          80
+        ],
+        "rewards": [
+          0,
+          200,
+          240,
+          0,
+          30
+        ],
+        "totals": {
+          "spent": 506,
+          "rewards": 470
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          90,
+          110,
+          234
+        ],
+        "rewards": [
+          40,
+          70,
+          318
+        ],
+        "totals": {
+          "spent": 434,
+          "rewards": 428
+        }
+      }
+    ]
+  },
+  {
+    "username": "sharleen_jenilee",
+    "firstName": "Sharleen",
+    "lastName": "Jenilee",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          118,
+          97
+        ],
+        "rewards": [
+          86,
+          47
+        ],
+        "totals": {
+          "spent": 215,
+          "rewards": 133
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          152,
+          41,
+          89,
+          37,
+          117,
+          83,
+          89
+        ],
+        "rewards": [
+          154,
+          0,
+          39,
+          0,
+          84,
+          33,
+          39
+        ],
+        "totals": {
+          "spent": 608,
+          "rewards": 349
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          36
+        ],
+        "rewards": [
+          0
+        ],
+        "totals": {
+          "spent": 36,
+          "rewards": 0
+        }
+      }
+    ]
+  },
+  {
+    "username": "amii_chlo",
+    "firstName": "Amii",
+    "lastName": "Chlo",
+    "amounts": [
+      {
+        "count": 5,
+        "spent": [
+          57,
+          27,
+          339,
+          195,
+          114
+        ],
+        "rewards": [
+          7,
+          0,
+          528,
+          240,
+          78
+        ],
+        "totals": {
+          "spent": 732,
+          "rewards": 853
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          178,
+          283,
+          37,
+          50,
+          357,
+          47
+        ],
+        "rewards": [
+          206,
+          416,
+          0,
+          0,
+          564,
+          0
+        ],
+        "totals": {
+          "spent": 952,
+          "rewards": 1186
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          134,
+          96,
+          79,
+          192,
+          371,
+          89,
+          62,
+          86,
+          242
+        ],
+        "rewards": [
+          118,
+          46,
+          29,
+          234,
+          592,
+          39,
+          12,
+          36,
+          334
+        ],
+        "totals": {
+          "spent": 1351,
+          "rewards": 1440
+        }
+      }
+    ]
+  },
+  {
+    "username": "mercedes_jobie",
+    "firstName": "Mercedes",
+    "lastName": "Jobie",
+    "amounts": [
+      {
+        "count": 3,
+        "spent": [
+          168,
+          54,
+          281
+        ],
+        "rewards": [
+          186,
+          4,
+          412
+        ],
+        "totals": {
+          "spent": 503,
+          "rewards": 602
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          279,
+          10,
+          243,
+          157,
+          186,
+          310,
+          61
+        ],
+        "rewards": [
+          408,
+          0,
+          336,
+          164,
+          222,
+          470,
+          11
+        ],
+        "totals": {
+          "spent": 1246,
+          "rewards": 1611
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          13,
+          81,
+          125,
+          59,
+          122
+        ],
+        "rewards": [
+          0,
+          31,
+          100,
+          9,
+          94
+        ],
+        "totals": {
+          "spent": 400,
+          "rewards": 234
+        }
+      }
+    ]
+  },
+  {
+    "username": "wilona_nikoletta",
+    "firstName": "Wilona",
+    "lastName": "Nikoletta",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          394,
+          160
+        ],
+        "rewards": [
+          638,
+          170
+        ],
+        "totals": {
+          "spent": 554,
+          "rewards": 808
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          82,
+          11
+        ],
+        "rewards": [
+          32,
+          0
+        ],
+        "totals": {
+          "spent": 93,
+          "rewards": 32
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          124,
+          263,
+          111,
+          248,
+          27,
+          69
+        ],
+        "rewards": [
+          98,
+          376,
+          72,
+          346,
+          0,
+          19
+        ],
+        "totals": {
+          "spent": 842,
+          "rewards": 911
+        }
+      }
+    ]
+  },
+  {
+    "username": "kathlin_lindsey",
+    "firstName": "Kathlin",
+    "lastName": "Lindsey",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          33,
+          38
+        ],
+        "rewards": [
+          0,
+          0
+        ],
+        "totals": {
+          "spent": 71,
+          "rewards": 0
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          22,
+          281,
+          99,
+          189,
+          172
+        ],
+        "rewards": [
+          0,
+          412,
+          49,
+          228,
+          194
+        ],
+        "totals": {
+          "spent": 763,
+          "rewards": 883
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          179,
+          135,
+          154,
+          121,
+          71,
+          26,
+          86,
+          260,
+          173
+        ],
+        "rewards": [
+          208,
+          120,
+          158,
+          92,
+          21,
+          0,
+          36,
+          370,
+          196
+        ],
+        "totals": {
+          "spent": 1205,
+          "rewards": 1201
+        }
+      }
+    ]
+  },
+  {
+    "username": "carolynn_aidan",
+    "firstName": "Carolynn",
+    "lastName": "Aidan",
+    "amounts": [
+      {
+        "count": 1,
+        "spent": [
+          49
+        ],
+        "rewards": [
+          0
+        ],
+        "totals": {
+          "spent": 49,
+          "rewards": 0
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          366,
+          61,
+          167,
+          20
+        ],
+        "rewards": [
+          582,
+          11,
+          184,
+          0
+        ],
+        "totals": {
+          "spent": 614,
+          "rewards": 777
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          69
+        ],
+        "rewards": [
+          19
+        ],
+        "totals": {
+          "spent": 69,
+          "rewards": 19
+        }
+      }
+    ]
+  },
+  {
+    "username": "hortensia_alma",
+    "firstName": "Hortensia",
+    "lastName": "Alma",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          86,
+          294
+        ],
+        "rewards": [
+          36,
+          438
+        ],
+        "totals": {
+          "spent": 380,
+          "rewards": 474
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          169
+        ],
+        "rewards": [
+          188
+        ],
+        "totals": {
+          "spent": 169,
+          "rewards": 188
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          141,
+          70,
+          422
+        ],
+        "rewards": [
+          132,
+          20,
+          694
+        ],
+        "totals": {
+          "spent": 633,
+          "rewards": 846
+        }
+      }
+    ]
+  },
+  {
+    "username": "marybeth_carey",
+    "firstName": "Marybeth",
+    "lastName": "Carey",
+    "amounts": [
+      {
+        "count": 3,
+        "spent": [
+          143,
+          21,
+          53
+        ],
+        "rewards": [
+          136,
+          0,
+          3
+        ],
+        "totals": {
+          "spent": 217,
+          "rewards": 139
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          235,
+          153,
+          234,
+          201
+        ],
+        "rewards": [
+          320,
+          156,
+          318,
+          252
+        ],
+        "totals": {
+          "spent": 823,
+          "rewards": 1046
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          271,
+          240,
+          251,
+          312,
+          280,
+          131
+        ],
+        "rewards": [
+          392,
+          330,
+          352,
+          474,
+          410,
+          112
+        ],
+        "totals": {
+          "spent": 1485,
+          "rewards": 2070
+        }
+      }
+    ]
+  },
+  {
+    "username": "allene_auria",
+    "firstName": "Allene",
+    "lastName": "Auria",
+    "amounts": [
+      {
+        "count": 5,
+        "spent": [
+          34,
+          162,
+          182,
+          73,
+          39
+        ],
+        "rewards": [
+          0,
+          174,
+          214,
+          23,
+          0
+        ],
+        "totals": {
+          "spent": 490,
+          "rewards": 411
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          154
+        ],
+        "rewards": [
+          158
+        ],
+        "totals": {
+          "spent": 154,
+          "rewards": 158
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          85,
+          132,
+          76,
+          256,
+          52,
+          214
+        ],
+        "rewards": [
+          35,
+          114,
+          26,
+          362,
+          2,
+          278
+        ],
+        "totals": {
+          "spent": 815,
+          "rewards": 817
+        }
+      }
+    ]
+  },
+  {
+    "username": "flory_martita",
+    "firstName": "Flory",
+    "lastName": "Martita",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          75,
+          42,
+          152,
+          55,
+          17,
+          17,
+          15,
+          52,
+          404
+        ],
+        "rewards": [
+          25,
+          0,
+          154,
+          5,
+          0,
+          0,
+          0,
+          2,
+          658
+        ],
+        "totals": {
+          "spent": 829,
+          "rewards": 844
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          142,
+          47,
+          228,
+          35,
+          30,
+          70,
+          174,
+          234,
+          94
+        ],
+        "rewards": [
+          134,
+          0,
+          306,
+          0,
+          0,
+          20,
+          198,
+          318,
+          44
+        ],
+        "totals": {
+          "spent": 1054,
+          "rewards": 1020
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          253,
+          161,
+          245,
+          55,
+          321,
+          154,
+          85
+        ],
+        "rewards": [
+          356,
+          172,
+          340,
+          5,
+          492,
+          158,
+          35
+        ],
+        "totals": {
+          "spent": 1274,
+          "rewards": 1558
+        }
+      }
+    ]
+  },
+  {
+    "username": "merrill_frayda",
+    "firstName": "Merrill",
+    "lastName": "Frayda",
+    "amounts": [
+      {
+        "count": 8,
+        "spent": [
+          299,
+          119,
+          128,
+          158,
+          67,
+          71,
+          190,
+          99
+        ],
+        "rewards": [
+          448,
+          88,
+          106,
+          166,
+          17,
+          21,
+          230,
+          49
+        ],
+        "totals": {
+          "spent": 1131,
+          "rewards": 1125
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          259,
+          89
+        ],
+        "rewards": [
+          368,
+          39
+        ],
+        "totals": {
+          "spent": 348,
+          "rewards": 407
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          53,
+          419,
+          21,
+          290,
+          31,
+          299
+        ],
+        "rewards": [
+          3,
+          688,
+          0,
+          430,
+          0,
+          448
+        ],
+        "totals": {
+          "spent": 1113,
+          "rewards": 1569
+        }
+      }
+    ]
+  },
+  {
+    "username": "donelle_julita",
+    "firstName": "Donelle",
+    "lastName": "Julita",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          39,
+          24
+        ],
+        "rewards": [
+          0,
+          0
+        ],
+        "totals": {
+          "spent": 63,
+          "rewards": 0
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          163,
+          62,
+          60,
+          201,
+          287,
+          157
+        ],
+        "rewards": [
+          176,
+          12,
+          10,
+          252,
+          424,
+          164
+        ],
+        "totals": {
+          "spent": 930,
+          "rewards": 1038
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          110,
+          33,
+          19,
+          117,
+          138,
+          11
+        ],
+        "rewards": [
+          70,
+          0,
+          0,
+          84,
+          126,
+          0
+        ],
+        "totals": {
+          "spent": 428,
+          "rewards": 280
+        }
+      }
+    ]
+  },
+  {
+    "username": "tuesday_whitney",
+    "firstName": "Tuesday",
+    "lastName": "Whitney",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          92,
+          82,
+          61,
+          235
+        ],
+        "rewards": [
+          42,
+          32,
+          11,
+          320
+        ],
+        "totals": {
+          "spent": 470,
+          "rewards": 405
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          105,
+          13,
+          130,
+          16,
+          103
+        ],
+        "rewards": [
+          60,
+          0,
+          110,
+          0,
+          56
+        ],
+        "totals": {
+          "spent": 367,
+          "rewards": 226
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          257,
+          26
+        ],
+        "rewards": [
+          364,
+          0
+        ],
+        "totals": {
+          "spent": 283,
+          "rewards": 364
+        }
+      }
+    ]
+  },
+  {
+    "username": "cecilia_timothea",
+    "firstName": "Cecilia",
+    "lastName": "Timothea",
+    "amounts": [
+      {
+        "count": 6,
+        "spent": [
+          192,
+          23,
+          111,
+          156,
+          102,
+          443
+        ],
+        "rewards": [
+          234,
+          0,
+          72,
+          162,
+          54,
+          736
+        ],
+        "totals": {
+          "spent": 1027,
+          "rewards": 1258
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          411,
+          64,
+          42,
+          49,
+          128,
+          68,
+          388,
+          91,
+          18
+        ],
+        "rewards": [
+          672,
+          14,
+          0,
+          0,
+          106,
+          18,
+          626,
+          41,
+          0
+        ],
+        "totals": {
+          "spent": 1259,
+          "rewards": 1477
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          46,
+          161,
+          125,
+          268,
+          266,
+          39
+        ],
+        "rewards": [
+          0,
+          172,
+          100,
+          386,
+          382,
+          0
+        ],
+        "totals": {
+          "spent": 905,
+          "rewards": 1040
+        }
+      }
+    ]
+  },
+  {
+    "username": "danika_andrei",
+    "firstName": "Danika",
+    "lastName": "Andrei",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          136,
+          151,
+          75,
+          267,
+          20,
+          56,
+          448
+        ],
+        "rewards": [
+          122,
+          152,
+          25,
+          384,
+          0,
+          6,
+          746
+        ],
+        "totals": {
+          "spent": 1153,
+          "rewards": 1435
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          258,
+          28,
+          86,
+          212
+        ],
+        "rewards": [
+          366,
+          0,
+          36,
+          274
+        ],
+        "totals": {
+          "spent": 584,
+          "rewards": 676
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          34,
+          82,
+          189,
+          239,
+          163,
+          90
+        ],
+        "rewards": [
+          0,
+          32,
+          228,
+          328,
+          176,
+          40
+        ],
+        "totals": {
+          "spent": 797,
+          "rewards": 804
+        }
+      }
+    ]
+  },
+  {
+    "username": "ruthanne_pia",
+    "firstName": "Ruthanne",
+    "lastName": "Pia",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          172,
+          20
+        ],
+        "rewards": [
+          194,
+          0
+        ],
+        "totals": {
+          "spent": 192,
+          "rewards": 194
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          182,
+          109,
+          20,
+          46,
+          24,
+          19
+        ],
+        "rewards": [
+          214,
+          68,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totals": {
+          "spent": 400,
+          "rewards": 282
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          14,
+          182
+        ],
+        "rewards": [
+          0,
+          214
+        ],
+        "totals": {
+          "spent": 196,
+          "rewards": 214
+        }
+      }
+    ]
+  },
+  {
+    "username": "malissa_harlie",
+    "firstName": "Malissa",
+    "lastName": "Harlie",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          157,
+          111,
+          26,
+          139,
+          147,
+          266,
+          319,
+          149,
+          63
+        ],
+        "rewards": [
+          164,
+          72,
+          0,
+          128,
+          144,
+          382,
+          488,
+          148,
+          13
+        ],
+        "totals": {
+          "spent": 1377,
+          "rewards": 1539
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          248,
+          59,
+          164,
+          141,
+          295,
+          100
+        ],
+        "rewards": [
+          346,
+          9,
+          178,
+          132,
+          440,
+          50
+        ],
+        "totals": {
+          "spent": 1007,
+          "rewards": 1155
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          134,
+          141,
+          119,
+          134,
+          47
+        ],
+        "rewards": [
+          118,
+          132,
+          88,
+          118,
+          0
+        ],
+        "totals": {
+          "spent": 575,
+          "rewards": 456
+        }
+      }
+    ]
+  },
+  {
+    "username": "shayna_dixie",
+    "firstName": "Shayna",
+    "lastName": "Dixie",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          10,
+          95,
+          65,
+          348
+        ],
+        "rewards": [
+          0,
+          45,
+          15,
+          546
+        ],
+        "totals": {
+          "spent": 518,
+          "rewards": 606
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          80,
+          51
+        ],
+        "rewards": [
+          30,
+          1
+        ],
+        "totals": {
+          "spent": 131,
+          "rewards": 31
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          146,
+          309,
+          47,
+          77,
+          108
+        ],
+        "rewards": [
+          142,
+          468,
+          0,
+          27,
+          66
+        ],
+        "totals": {
+          "spent": 687,
+          "rewards": 703
+        }
+      }
+    ]
+  },
+  {
+    "username": "shandeigh_halley",
+    "firstName": "Shandeigh",
+    "lastName": "Halley",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          74,
+          111,
+          232,
+          150,
+          133,
+          339,
+          76
+        ],
+        "rewards": [
+          24,
+          72,
+          314,
+          150,
+          116,
+          528,
+          26
+        ],
+        "totals": {
+          "spent": 1115,
+          "rewards": 1230
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          52,
+          207,
+          97,
+          364,
+          99,
+          205,
+          157
+        ],
+        "rewards": [
+          2,
+          264,
+          47,
+          578,
+          49,
+          260,
+          164
+        ],
+        "totals": {
+          "spent": 1181,
+          "rewards": 1364
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          378,
+          29,
+          235,
+          222
+        ],
+        "rewards": [
+          606,
+          0,
+          320,
+          294
+        ],
+        "totals": {
+          "spent": 864,
+          "rewards": 1220
+        }
+      }
+    ]
+  },
+  {
+    "username": "jannelle_lavena",
+    "firstName": "Jannelle",
+    "lastName": "Lavena",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          67,
+          459,
+          122,
+          378
+        ],
+        "rewards": [
+          17,
+          768,
+          94,
+          606
+        ],
+        "totals": {
+          "spent": 1026,
+          "rewards": 1485
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          34,
+          136,
+          69,
+          305,
+          64,
+          88,
+          106,
+          46,
+          254
+        ],
+        "rewards": [
+          0,
+          122,
+          19,
+          460,
+          14,
+          38,
+          62,
+          0,
+          358
+        ],
+        "totals": {
+          "spent": 1102,
+          "rewards": 1073
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          310,
+          62,
+          188,
+          151,
+          25,
+          89
+        ],
+        "rewards": [
+          470,
+          12,
+          226,
+          152,
+          0,
+          39
+        ],
+        "totals": {
+          "spent": 825,
+          "rewards": 899
+        }
+      }
+    ]
+  },
+  {
+    "username": "evey_dyanna",
+    "firstName": "Evey",
+    "lastName": "Dyanna",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          64,
+          95
+        ],
+        "rewards": [
+          14,
+          45
+        ],
+        "totals": {
+          "spent": 159,
+          "rewards": 59
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          217,
+          119,
+          122,
+          38,
+          77,
+          325,
+          27
+        ],
+        "rewards": [
+          284,
+          88,
+          94,
+          0,
+          27,
+          500,
+          0
+        ],
+        "totals": {
+          "spent": 925,
+          "rewards": 993
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          55,
+          16,
+          89,
+          333,
+          46,
+          105,
+          11
+        ],
+        "rewards": [
+          5,
+          0,
+          39,
+          516,
+          0,
+          60,
+          0
+        ],
+        "totals": {
+          "spent": 655,
+          "rewards": 620
+        }
+      }
+    ]
+  },
+  {
+    "username": "celia_zarah",
+    "firstName": "Celia",
+    "lastName": "Zarah",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          49,
+          218,
+          118,
+          44,
+          61,
+          126,
+          15,
+          375,
+          463
+        ],
+        "rewards": [
+          0,
+          286,
+          86,
+          0,
+          11,
+          102,
+          0,
+          600,
+          776
+        ],
+        "totals": {
+          "spent": 1469,
+          "rewards": 1861
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          73,
+          440,
+          354,
+          30,
+          53,
+          230
+        ],
+        "rewards": [
+          23,
+          730,
+          558,
+          0,
+          3,
+          310
+        ],
+        "totals": {
+          "spent": 1180,
+          "rewards": 1624
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          24,
+          56,
+          405,
+          21,
+          31,
+          159,
+          218,
+          130,
+          119
+        ],
+        "rewards": [
+          0,
+          6,
+          660,
+          0,
+          0,
+          168,
+          286,
+          110,
+          88
+        ],
+        "totals": {
+          "spent": 1163,
+          "rewards": 1318
+        }
+      }
+    ]
+  },
+  {
+    "username": "carlin_karlotte",
+    "firstName": "Carlin",
+    "lastName": "Karlotte",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          22,
+          37,
+          50,
+          96,
+          45,
+          417,
+          177
+        ],
+        "rewards": [
+          0,
+          0,
+          0,
+          46,
+          0,
+          684,
+          204
+        ],
+        "totals": {
+          "spent": 844,
+          "rewards": 934
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          146,
+          49,
+          360,
+          264
+        ],
+        "rewards": [
+          142,
+          0,
+          570,
+          378
+        ],
+        "totals": {
+          "spent": 819,
+          "rewards": 1090
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          406,
+          129,
+          178,
+          44,
+          454,
+          203
+        ],
+        "rewards": [
+          662,
+          108,
+          206,
+          0,
+          758,
+          256
+        ],
+        "totals": {
+          "spent": 1414,
+          "rewards": 1990
+        }
+      }
+    ]
+  },
+  {
+    "username": "merla_heloise",
+    "firstName": "Merla",
+    "lastName": "Heloise",
+    "amounts": [
+      {
+        "count": 1,
+        "spent": [
+          23
+        ],
+        "rewards": [
+          0
+        ],
+        "totals": {
+          "spent": 23,
+          "rewards": 0
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          398,
+          60,
+          10,
+          284,
+          52,
+          92,
+          78,
+          35,
+          68
+        ],
+        "rewards": [
+          646,
+          10,
+          0,
+          418,
+          2,
+          42,
+          28,
+          0,
+          18
+        ],
+        "totals": {
+          "spent": 1077,
+          "rewards": 1164
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          55
+        ],
+        "rewards": [
+          5
+        ],
+        "totals": {
+          "spent": 55,
+          "rewards": 5
+        }
+      }
+    ]
+  },
+  {
+    "username": "loise_dorothea",
+    "firstName": "Loise",
+    "lastName": "Dorothea",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          31,
+          66,
+          274,
+          132
+        ],
+        "rewards": [
+          0,
+          16,
+          398,
+          114
+        ],
+        "totals": {
+          "spent": 503,
+          "rewards": 528
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          14,
+          145,
+          157,
+          27,
+          21,
+          158,
+          250
+        ],
+        "rewards": [
+          0,
+          140,
+          164,
+          0,
+          0,
+          166,
+          350
+        ],
+        "totals": {
+          "spent": 772,
+          "rewards": 820
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          282,
+          15,
+          118,
+          268,
+          114
+        ],
+        "rewards": [
+          414,
+          0,
+          86,
+          386,
+          78
+        ],
+        "totals": {
+          "spent": 797,
+          "rewards": 964
+        }
+      }
+    ]
+  },
+  {
+    "username": "josi_karissa",
+    "firstName": "Josi",
+    "lastName": "Karissa",
+    "amounts": [
+      {
+        "count": 8,
+        "spent": [
+          80,
+          234,
+          129,
+          59,
+          208,
+          91,
+          97,
+          52
+        ],
+        "rewards": [
+          30,
+          318,
+          108,
+          9,
+          266,
+          41,
+          47,
+          2
+        ],
+        "totals": {
+          "spent": 950,
+          "rewards": 821
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          71,
+          32,
+          75
+        ],
+        "rewards": [
+          21,
+          0,
+          25
+        ],
+        "totals": {
+          "spent": 178,
+          "rewards": 46
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          30,
+          102,
+          52,
+          221,
+          73,
+          85
+        ],
+        "rewards": [
+          0,
+          54,
+          2,
+          292,
+          23,
+          35
+        ],
+        "totals": {
+          "spent": 563,
+          "rewards": 406
+        }
+      }
+    ]
+  },
+  {
+    "username": "joellyn_helsa",
+    "firstName": "Joellyn",
+    "lastName": "Helsa",
+    "amounts": [
+      {
+        "count": 5,
+        "spent": [
+          34,
+          73,
+          93,
+          10,
+          100
+        ],
+        "rewards": [
+          0,
+          23,
+          43,
+          0,
+          50
+        ],
+        "totals": {
+          "spent": 310,
+          "rewards": 116
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          335,
+          115,
+          324,
+          88,
+          53,
+          134,
+          264
+        ],
+        "rewards": [
+          520,
+          80,
+          498,
+          38,
+          3,
+          118,
+          378
+        ],
+        "totals": {
+          "spent": 1313,
+          "rewards": 1635
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          38
+        ],
+        "rewards": [
+          0
+        ],
+        "totals": {
+          "spent": 38,
+          "rewards": 0
+        }
+      }
+    ]
+  },
+  {
+    "username": "cindi_alvinia",
+    "firstName": "Cindi",
+    "lastName": "Alvinia",
+    "amounts": [
+      {
+        "count": 8,
+        "spent": [
+          465,
+          257,
+          69,
+          66,
+          422,
+          160,
+          46,
+          45
+        ],
+        "rewards": [
+          780,
+          364,
+          19,
+          16,
+          694,
+          170,
+          0,
+          0
+        ],
+        "totals": {
+          "spent": 1530,
+          "rewards": 2043
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          107,
+          11,
+          40,
+          365,
+          237
+        ],
+        "rewards": [
+          64,
+          0,
+          0,
+          580,
+          324
+        ],
+        "totals": {
+          "spent": 760,
+          "rewards": 968
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          30,
+          29,
+          367,
+          96,
+          138,
+          240
+        ],
+        "rewards": [
+          0,
+          0,
+          584,
+          46,
+          126,
+          330
+        ],
+        "totals": {
+          "spent": 900,
+          "rewards": 1086
+        }
+      }
+    ]
+  },
+  {
+    "username": "vivyanne_kati",
+    "firstName": "Vivyanne",
+    "lastName": "Kati",
+    "amounts": [
+      {
+        "count": 5,
+        "spent": [
+          70,
+          299,
+          48,
+          179,
+          165
+        ],
+        "rewards": [
+          20,
+          448,
+          0,
+          208,
+          180
+        ],
+        "totals": {
+          "spent": 761,
+          "rewards": 856
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          252,
+          423,
+          224,
+          168,
+          106,
+          24,
+          394
+        ],
+        "rewards": [
+          354,
+          696,
+          298,
+          186,
+          62,
+          0,
+          638
+        ],
+        "totals": {
+          "spent": 1591,
+          "rewards": 2234
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          139,
+          132
+        ],
+        "rewards": [
+          128,
+          114
+        ],
+        "totals": {
+          "spent": 271,
+          "rewards": 242
+        }
+      }
+    ]
+  },
+  {
+    "username": "briney_coraline",
+    "firstName": "Briney",
+    "lastName": "Coraline",
+    "amounts": [
+      {
+        "count": 1,
+        "spent": [
+          264
+        ],
+        "rewards": [
+          378
+        ],
+        "totals": {
+          "spent": 264,
+          "rewards": 378
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          43,
+          123,
+          18
+        ],
+        "rewards": [
+          0,
+          96,
+          0
+        ],
+        "totals": {
+          "spent": 184,
+          "rewards": 96
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          63,
+          116,
+          235,
+          355,
+          95,
+          385,
+          23,
+          101,
+          29
+        ],
+        "rewards": [
+          13,
+          82,
+          320,
+          560,
+          45,
+          620,
+          0,
+          52,
+          0
+        ],
+        "totals": {
+          "spent": 1402,
+          "rewards": 1692
+        }
+      }
+    ]
+  },
+  {
+    "username": "brandea_rheba",
+    "firstName": "Brandea",
+    "lastName": "Rheba",
+    "amounts": [
+      {
+        "count": 5,
+        "spent": [
+          313,
+          142,
+          63,
+          73,
+          130
+        ],
+        "rewards": [
+          476,
+          134,
+          13,
+          23,
+          110
+        ],
+        "totals": {
+          "spent": 721,
+          "rewards": 756
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          169,
+          87,
+          240,
+          64,
+          249,
+          83
+        ],
+        "rewards": [
+          188,
+          37,
+          330,
+          14,
+          348,
+          33
+        ],
+        "totals": {
+          "spent": 892,
+          "rewards": 950
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          122,
+          86
+        ],
+        "rewards": [
+          94,
+          36
+        ],
+        "totals": {
+          "spent": 208,
+          "rewards": 130
+        }
+      }
+    ]
+  },
+  {
+    "username": "nicol_alvira",
+    "firstName": "Nicol",
+    "lastName": "Alvira",
+    "amounts": [
+      {
+        "count": 6,
+        "spent": [
+          76,
+          218,
+          252,
+          76,
+          227,
+          221
+        ],
+        "rewards": [
+          26,
+          286,
+          354,
+          26,
+          304,
+          292
+        ],
+        "totals": {
+          "spent": 1070,
+          "rewards": 1288
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          45,
+          38,
+          173,
+          396,
+          323,
+          382,
+          411,
+          162,
+          190
+        ],
+        "rewards": [
+          0,
+          0,
+          196,
+          642,
+          496,
+          614,
+          672,
+          174,
+          230
+        ],
+        "totals": {
+          "spent": 2120,
+          "rewards": 3024
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          127,
+          12
+        ],
+        "rewards": [
+          104,
+          0
+        ],
+        "totals": {
+          "spent": 139,
+          "rewards": 104
+        }
+      }
+    ]
+  },
+  {
+    "username": "estell_kevyn",
+    "firstName": "Estell",
+    "lastName": "Kevyn",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          171,
+          21,
+          11,
+          109,
+          162,
+          151,
+          66,
+          134,
+          11
+        ],
+        "rewards": [
+          192,
+          0,
+          0,
+          68,
+          174,
+          152,
+          16,
+          118,
+          0
+        ],
+        "totals": {
+          "spent": 836,
+          "rewards": 720
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          82,
+          121,
+          16,
+          48,
+          115,
+          156
+        ],
+        "rewards": [
+          32,
+          92,
+          0,
+          0,
+          80,
+          162
+        ],
+        "totals": {
+          "spent": 538,
+          "rewards": 366
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          181,
+          88,
+          68,
+          52,
+          258,
+          273
+        ],
+        "rewards": [
+          212,
+          38,
+          18,
+          2,
+          366,
+          396
+        ],
+        "totals": {
+          "spent": 920,
+          "rewards": 1032
+        }
+      }
+    ]
+  },
+  {
+    "username": "kaitlynn_paulie",
+    "firstName": "Kaitlynn",
+    "lastName": "Paulie",
+    "amounts": [
+      {
+        "count": 8,
+        "spent": [
+          58,
+          167,
+          393,
+          108,
+          275,
+          203,
+          58,
+          81
+        ],
+        "rewards": [
+          8,
+          184,
+          636,
+          66,
+          400,
+          256,
+          8,
+          31
+        ],
+        "totals": {
+          "spent": 1343,
+          "rewards": 1589
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          78,
+          142,
+          430,
+          138,
+          98,
+          387,
+          59,
+          165,
+          183
+        ],
+        "rewards": [
+          28,
+          134,
+          710,
+          126,
+          48,
+          624,
+          9,
+          180,
+          216
+        ],
+        "totals": {
+          "spent": 1680,
+          "rewards": 2075
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          78,
+          134,
+          35,
+          350
+        ],
+        "rewards": [
+          28,
+          118,
+          0,
+          550
+        ],
+        "totals": {
+          "spent": 597,
+          "rewards": 696
+        }
+      }
+    ]
+  },
+  {
+    "username": "lorene_annabal",
+    "firstName": "Lorene",
+    "lastName": "Annabal",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          74,
+          34
+        ],
+        "rewards": [
+          24,
+          0
+        ],
+        "totals": {
+          "spent": 108,
+          "rewards": 24
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          46,
+          132,
+          233,
+          16,
+          128,
+          234
+        ],
+        "rewards": [
+          0,
+          114,
+          316,
+          0,
+          106,
+          318
+        ],
+        "totals": {
+          "spent": 789,
+          "rewards": 854
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          68,
+          86,
+          30
+        ],
+        "rewards": [
+          18,
+          36,
+          0
+        ],
+        "totals": {
+          "spent": 184,
+          "rewards": 54
+        }
+      }
+    ]
+  },
+  {
+    "username": "dulci_carly",
+    "firstName": "Dulci",
+    "lastName": "Carly",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          163,
+          43,
+          86,
+          19,
+          475,
+          96,
+          400
+        ],
+        "rewards": [
+          176,
+          0,
+          36,
+          0,
+          800,
+          46,
+          650
+        ],
+        "totals": {
+          "spent": 1282,
+          "rewards": 1708
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          263,
+          16,
+          85,
+          14,
+          242,
+          62,
+          28,
+          101,
+          176
+        ],
+        "rewards": [
+          376,
+          0,
+          35,
+          0,
+          334,
+          12,
+          0,
+          52,
+          202
+        ],
+        "totals": {
+          "spent": 987,
+          "rewards": 1011
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          19,
+          61,
+          167,
+          58,
+          313
+        ],
+        "rewards": [
+          0,
+          11,
+          184,
+          8,
+          476
+        ],
+        "totals": {
+          "spent": 618,
+          "rewards": 679
+        }
+      }
+    ]
+  },
+  {
+    "username": "christal_odette",
+    "firstName": "Christal",
+    "lastName": "Odette",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          73,
+          55
+        ],
+        "rewards": [
+          23,
+          5
+        ],
+        "totals": {
+          "spent": 128,
+          "rewards": 28
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          426,
+          95,
+          40,
+          20,
+          35,
+          40
+        ],
+        "rewards": [
+          702,
+          45,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totals": {
+          "spent": 656,
+          "rewards": 747
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          166,
+          11,
+          66
+        ],
+        "rewards": [
+          182,
+          0,
+          16
+        ],
+        "totals": {
+          "spent": 243,
+          "rewards": 198
+        }
+      }
+    ]
+  },
+  {
+    "username": "dorolice_aleta",
+    "firstName": "Dorolice",
+    "lastName": "Aleta",
+    "amounts": [
+      {
+        "count": 6,
+        "spent": [
+          166,
+          293,
+          207,
+          28,
+          295,
+          55
+        ],
+        "rewards": [
+          182,
+          436,
+          264,
+          0,
+          440,
+          5
+        ],
+        "totals": {
+          "spent": 1044,
+          "rewards": 1327
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          332,
+          98,
+          199,
+          71,
+          146,
+          382,
+          221,
+          21
+        ],
+        "rewards": [
+          514,
+          48,
+          248,
+          21,
+          142,
+          614,
+          292,
+          0
+        ],
+        "totals": {
+          "spent": 1470,
+          "rewards": 1879
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          66,
+          110,
+          363,
+          383,
+          92,
+          94,
+          202
+        ],
+        "rewards": [
+          16,
+          70,
+          576,
+          616,
+          42,
+          44,
+          254
+        ],
+        "totals": {
+          "spent": 1310,
+          "rewards": 1618
+        }
+      }
+    ]
+  },
+  {
+    "username": "nickie_brear",
+    "firstName": "Nickie",
+    "lastName": "Brear",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          58,
+          120,
+          111,
+          220
+        ],
+        "rewards": [
+          8,
+          90,
+          72,
+          290
+        ],
+        "totals": {
+          "spent": 509,
+          "rewards": 460
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          22
+        ],
+        "rewards": [
+          0
+        ],
+        "totals": {
+          "spent": 22,
+          "rewards": 0
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          97,
+          58,
+          84
+        ],
+        "rewards": [
+          47,
+          8,
+          34
+        ],
+        "totals": {
+          "spent": 239,
+          "rewards": 89
+        }
+      }
+    ]
+  },
+  {
+    "username": "jaquelin_tansy",
+    "firstName": "Jaquelin",
+    "lastName": "Tansy",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          297,
+          40,
+          327,
+          254,
+          19,
+          76,
+          70
+        ],
+        "rewards": [
+          444,
+          0,
+          504,
+          358,
+          0,
+          26,
+          20
+        ],
+        "totals": {
+          "spent": 1083,
+          "rewards": 1352
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          35,
+          130
+        ],
+        "rewards": [
+          0,
+          110
+        ],
+        "totals": {
+          "spent": 165,
+          "rewards": 110
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          117,
+          476,
+          217,
+          82,
+          266
+        ],
+        "rewards": [
+          84,
+          802,
+          284,
+          32,
+          382
+        ],
+        "totals": {
+          "spent": 1158,
+          "rewards": 1584
+        }
+      }
+    ]
+  },
+  {
+    "username": "tybie_zora",
+    "firstName": "Tybie",
+    "lastName": "Zora",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          239,
+          32
+        ],
+        "rewards": [
+          328,
+          0
+        ],
+        "totals": {
+          "spent": 271,
+          "rewards": 328
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          294,
+          12,
+          116,
+          121,
+          239,
+          158,
+          359
+        ],
+        "rewards": [
+          438,
+          0,
+          82,
+          92,
+          328,
+          166,
+          568
+        ],
+        "totals": {
+          "spent": 1299,
+          "rewards": 1674
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          244,
+          120,
+          23,
+          106,
+          61,
+          375
+        ],
+        "rewards": [
+          338,
+          90,
+          0,
+          62,
+          11,
+          600
+        ],
+        "totals": {
+          "spent": 929,
+          "rewards": 1101
+        }
+      }
+    ]
+  },
+  {
+    "username": "deirdre_happy",
+    "firstName": "Deirdre",
+    "lastName": "Happy",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          67,
+          48
+        ],
+        "rewards": [
+          17,
+          0
+        ],
+        "totals": {
+          "spent": 115,
+          "rewards": 17
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          66,
+          92,
+          219,
+          39,
+          185,
+          37,
+          44,
+          32
+        ],
+        "rewards": [
+          16,
+          42,
+          288,
+          0,
+          220,
+          0,
+          0,
+          0
+        ],
+        "totals": {
+          "spent": 714,
+          "rewards": 566
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          359,
+          60
+        ],
+        "rewards": [
+          568,
+          10
+        ],
+        "totals": {
+          "spent": 419,
+          "rewards": 578
+        }
+      }
+    ]
+  },
+  {
+    "username": "ema_lynnett",
+    "firstName": "Ema",
+    "lastName": "Lynnett",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          117,
+          334,
+          225,
+          36
+        ],
+        "rewards": [
+          84,
+          518,
+          300,
+          0
+        ],
+        "totals": {
+          "spent": 712,
+          "rewards": 902
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          86,
+          221,
+          49,
+          104,
+          34
+        ],
+        "rewards": [
+          36,
+          292,
+          0,
+          58,
+          0
+        ],
+        "totals": {
+          "spent": 494,
+          "rewards": 386
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          231,
+          373,
+          292,
+          71,
+          15,
+          121,
+          212,
+          217
+        ],
+        "rewards": [
+          312,
+          596,
+          434,
+          21,
+          0,
+          92,
+          274,
+          284
+        ],
+        "totals": {
+          "spent": 1532,
+          "rewards": 2013
+        }
+      }
+    ]
+  },
+  {
+    "username": "oralie_sosanna",
+    "firstName": "Oralie",
+    "lastName": "Sosanna",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          152,
+          363
+        ],
+        "rewards": [
+          154,
+          576
+        ],
+        "totals": {
+          "spent": 515,
+          "rewards": 730
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          116,
+          190,
+          16,
+          74,
+          236,
+          304,
+          163,
+          101,
+          25
+        ],
+        "rewards": [
+          82,
+          230,
+          0,
+          24,
+          322,
+          458,
+          176,
+          52,
+          0
+        ],
+        "totals": {
+          "spent": 1225,
+          "rewards": 1344
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          91,
+          111
+        ],
+        "rewards": [
+          41,
+          72
+        ],
+        "totals": {
+          "spent": 202,
+          "rewards": 113
+        }
+      }
+    ]
+  },
+  {
+    "username": "kassia_rici",
+    "firstName": "Kassia",
+    "lastName": "Rici",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          121,
+          34,
+          269,
+          156
+        ],
+        "rewards": [
+          92,
+          0,
+          388,
+          162
+        ],
+        "totals": {
+          "spent": 580,
+          "rewards": 642
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          59,
+          170,
+          139,
+          89,
+          132,
+          86,
+          190,
+          44,
+          367
+        ],
+        "rewards": [
+          9,
+          190,
+          128,
+          39,
+          114,
+          36,
+          230,
+          0,
+          584
+        ],
+        "totals": {
+          "spent": 1276,
+          "rewards": 1330
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          104,
+          208,
+          19,
+          115,
+          18
+        ],
+        "rewards": [
+          58,
+          266,
+          0,
+          80,
+          0
+        ],
+        "totals": {
+          "spent": 464,
+          "rewards": 404
+        }
+      }
+    ]
+  },
+  {
+    "username": "carena_vonnie",
+    "firstName": "Carena",
+    "lastName": "Vonnie",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          93,
+          102,
+          10,
+          246,
+          111,
+          474,
+          91
+        ],
+        "rewards": [
+          43,
+          54,
+          0,
+          342,
+          72,
+          798,
+          41
+        ],
+        "totals": {
+          "spent": 1127,
+          "rewards": 1350
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          281,
+          62,
+          95,
+          130,
+          16,
+          66,
+          126,
+          61
+        ],
+        "rewards": [
+          412,
+          12,
+          45,
+          110,
+          0,
+          16,
+          102,
+          11
+        ],
+        "totals": {
+          "spent": 837,
+          "rewards": 708
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          176,
+          74,
+          373,
+          144,
+          47,
+          55,
+          66
+        ],
+        "rewards": [
+          202,
+          24,
+          596,
+          138,
+          0,
+          5,
+          16
+        ],
+        "totals": {
+          "spent": 935,
+          "rewards": 981
+        }
+      }
+    ]
+  },
+  {
+    "username": "janela_gilda",
+    "firstName": "Janela",
+    "lastName": "Gilda",
+    "amounts": [
+      {
+        "count": 4,
+        "spent": [
+          302,
+          26,
+          172,
+          10
+        ],
+        "rewards": [
+          454,
+          0,
+          194,
+          0
+        ],
+        "totals": {
+          "spent": 510,
+          "rewards": 648
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          24,
+          30,
+          84,
+          34
+        ],
+        "rewards": [
+          0,
+          0,
+          34,
+          0
+        ],
+        "totals": {
+          "spent": 172,
+          "rewards": 34
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          110,
+          341,
+          292,
+          429,
+          32,
+          260,
+          149
+        ],
+        "rewards": [
+          70,
+          532,
+          434,
+          708,
+          0,
+          370,
+          148
+        ],
+        "totals": {
+          "spent": 1613,
+          "rewards": 2262
+        }
+      }
+    ]
+  },
+  {
+    "username": "tommie_bibbye",
+    "firstName": "Tommie",
+    "lastName": "Bibbye",
+    "amounts": [
+      {
+        "count": 5,
+        "spent": [
+          337,
+          30,
+          79,
+          173,
+          232
+        ],
+        "rewards": [
+          524,
+          0,
+          29,
+          196,
+          314
+        ],
+        "totals": {
+          "spent": 851,
+          "rewards": 1063
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          50
+        ],
+        "rewards": [
+          0
+        ],
+        "totals": {
+          "spent": 50,
+          "rewards": 0
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          342,
+          273,
+          126,
+          53,
+          131
+        ],
+        "rewards": [
+          534,
+          396,
+          102,
+          3,
+          112
+        ],
+        "totals": {
+          "spent": 925,
+          "rewards": 1147
+        }
+      }
+    ]
+  },
+  {
+    "username": "malia_janella",
+    "firstName": "Malia",
+    "lastName": "Janella",
+    "amounts": [
+      {
+        "count": 1,
+        "spent": [
+          217
+        ],
+        "rewards": [
+          284
+        ],
+        "totals": {
+          "spent": 217,
+          "rewards": 284
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          83,
+          188
+        ],
+        "rewards": [
+          33,
+          226
+        ],
+        "totals": {
+          "spent": 271,
+          "rewards": 259
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          155,
+          116,
+          203,
+          252,
+          182
+        ],
+        "rewards": [
+          160,
+          82,
+          256,
+          354,
+          214
+        ],
+        "totals": {
+          "spent": 908,
+          "rewards": 1066
+        }
+      }
+    ]
+  },
+  {
+    "username": "merline_harley",
+    "firstName": "Merline",
+    "lastName": "Harley",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          35,
+          116,
+          154,
+          327,
+          36,
+          227,
+          324,
+          105,
+          209
+        ],
+        "rewards": [
+          0,
+          82,
+          158,
+          504,
+          0,
+          304,
+          498,
+          60,
+          268
+        ],
+        "totals": {
+          "spent": 1533,
+          "rewards": 1874
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          321,
+          44,
+          88,
+          93,
+          29,
+          72,
+          38,
+          172
+        ],
+        "rewards": [
+          492,
+          0,
+          38,
+          43,
+          0,
+          22,
+          0,
+          194
+        ],
+        "totals": {
+          "spent": 857,
+          "rewards": 789
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          103,
+          62,
+          47,
+          80,
+          67,
+          101,
+          253,
+          88
+        ],
+        "rewards": [
+          56,
+          12,
+          0,
+          30,
+          17,
+          52,
+          356,
+          38
+        ],
+        "totals": {
+          "spent": 801,
+          "rewards": 561
+        }
+      }
+    ]
+  },
+  {
+    "username": "charline_edyth",
+    "firstName": "Charline",
+    "lastName": "Edyth",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          50,
+          107
+        ],
+        "rewards": [
+          0,
+          64
+        ],
+        "totals": {
+          "spent": 157,
+          "rewards": 64
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          256,
+          20,
+          25,
+          100,
+          44,
+          164,
+          59,
+          149,
+          192
+        ],
+        "rewards": [
+          362,
+          0,
+          0,
+          50,
+          0,
+          178,
+          9,
+          148,
+          234
+        ],
+        "totals": {
+          "spent": 1009,
+          "rewards": 981
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          244,
+          128
+        ],
+        "rewards": [
+          338,
+          106
+        ],
+        "totals": {
+          "spent": 372,
+          "rewards": 444
+        }
+      }
+    ]
+  },
+  {
+    "username": "maryl_brana",
+    "firstName": "Maryl",
+    "lastName": "Brana",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          190,
+          67
+        ],
+        "rewards": [
+          230,
+          17
+        ],
+        "totals": {
+          "spent": 257,
+          "rewards": 247
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          76,
+          212,
+          14
+        ],
+        "rewards": [
+          26,
+          274,
+          0
+        ],
+        "totals": {
+          "spent": 302,
+          "rewards": 300
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          35,
+          100,
+          24,
+          344,
+          317
+        ],
+        "rewards": [
+          0,
+          50,
+          0,
+          538,
+          484
+        ],
+        "totals": {
+          "spent": 820,
+          "rewards": 1072
+        }
+      }
+    ]
+  },
+  {
+    "username": "janine_elna",
+    "firstName": "Janine",
+    "lastName": "Elna",
+    "amounts": [
+      {
+        "count": 7,
+        "spent": [
+          59,
+          25,
+          10,
+          78,
+          21,
+          231,
+          231
+        ],
+        "rewards": [
+          9,
+          0,
+          0,
+          28,
+          0,
+          312,
+          312
+        ],
+        "totals": {
+          "spent": 655,
+          "rewards": 661
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          69,
+          178,
+          19
+        ],
+        "rewards": [
+          19,
+          206,
+          0
+        ],
+        "totals": {
+          "spent": 266,
+          "rewards": 225
+        }
+      },
+      {
+        "count": 6,
+        "spent": [
+          69,
+          69,
+          345,
+          56,
+          120,
+          46
+        ],
+        "rewards": [
+          19,
+          19,
+          540,
+          6,
+          90,
+          0
+        ],
+        "totals": {
+          "spent": 705,
+          "rewards": 674
+        }
+      }
+    ]
+  },
+  {
+    "username": "cinderella_ronnie",
+    "firstName": "Cinderella",
+    "lastName": "Ronnie",
+    "amounts": [
+      {
+        "count": 6,
+        "spent": [
+          225,
+          56,
+          68,
+          74,
+          69,
+          315
+        ],
+        "rewards": [
+          300,
+          6,
+          18,
+          24,
+          19,
+          480
+        ],
+        "totals": {
+          "spent": 807,
+          "rewards": 847
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          30,
+          111,
+          38,
+          215,
+          20,
+          313,
+          100,
+          64,
+          363
+        ],
+        "rewards": [
+          0,
+          72,
+          0,
+          280,
+          0,
+          476,
+          50,
+          14,
+          576
+        ],
+        "totals": {
+          "spent": 1254,
+          "rewards": 1468
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          290,
+          39,
+          111,
+          330,
+          210,
+          48,
+          117
+        ],
+        "rewards": [
+          430,
+          0,
+          72,
+          510,
+          270,
+          0,
+          84
+        ],
+        "totals": {
+          "spent": 1145,
+          "rewards": 1366
+        }
+      }
+    ]
+  },
+  {
+    "username": "delcine_karyn",
+    "firstName": "Delcine",
+    "lastName": "Karyn",
+    "amounts": [
+      {
+        "count": 3,
+        "spent": [
+          331,
+          173,
+          51
+        ],
+        "rewards": [
+          512,
+          196,
+          1
+        ],
+        "totals": {
+          "spent": 555,
+          "rewards": 709
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          294,
+          116,
+          255,
+          33
+        ],
+        "rewards": [
+          438,
+          82,
+          360,
+          0
+        ],
+        "totals": {
+          "spent": 698,
+          "rewards": 880
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          76,
+          405,
+          62,
+          92,
+          42
+        ],
+        "rewards": [
+          26,
+          660,
+          12,
+          42,
+          0
+        ],
+        "totals": {
+          "spent": 677,
+          "rewards": 740
+        }
+      }
+    ]
+  },
+  {
+    "username": "pet_brunhilda",
+    "firstName": "Pet",
+    "lastName": "Brunhilda",
+    "amounts": [
+      {
+        "count": 5,
+        "spent": [
+          120,
+          159,
+          404,
+          325,
+          46
+        ],
+        "rewards": [
+          90,
+          168,
+          658,
+          500,
+          0
+        ],
+        "totals": {
+          "spent": 1054,
+          "rewards": 1416
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          24,
+          159,
+          17,
+          46,
+          183,
+          197,
+          29
+        ],
+        "rewards": [
+          0,
+          168,
+          0,
+          0,
+          216,
+          244,
+          0
+        ],
+        "totals": {
+          "spent": 655,
+          "rewards": 628
+        }
+      },
+      {
+        "count": 9,
+        "spent": [
+          183,
+          35,
+          67,
+          108,
+          263,
+          412,
+          182,
+          133,
+          213
+        ],
+        "rewards": [
+          216,
+          0,
+          17,
+          66,
+          376,
+          674,
+          214,
+          116,
+          276
+        ],
+        "totals": {
+          "spent": 1596,
+          "rewards": 1955
+        }
+      }
+    ]
+  },
+  {
+    "username": "loise_barbe",
+    "firstName": "Loise",
+    "lastName": "Barbe",
+    "amounts": [
+      {
+        "count": 1,
+        "spent": [
+          396
+        ],
+        "rewards": [
+          642
+        ],
+        "totals": {
+          "spent": 396,
+          "rewards": 642
+        }
+      },
+      {
+        "count": 8,
+        "spent": [
+          55,
+          131,
+          280,
+          46,
+          78,
+          48,
+          44,
+          105
+        ],
+        "rewards": [
+          5,
+          112,
+          410,
+          0,
+          28,
+          0,
+          0,
+          60
+        ],
+        "totals": {
+          "spent": 787,
+          "rewards": 615
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          46,
+          18,
+          198,
+          15,
+          76,
+          242,
+          193
+        ],
+        "rewards": [
+          0,
+          0,
+          246,
+          0,
+          26,
+          334,
+          236
+        ],
+        "totals": {
+          "spent": 788,
+          "rewards": 842
+        }
+      }
+    ]
+  },
+  {
+    "username": "ariela_claudette",
+    "firstName": "Ariela",
+    "lastName": "Claudette",
+    "amounts": [
+      {
+        "count": 9,
+        "spent": [
+          246,
+          285,
+          412,
+          262,
+          44,
+          85,
+          70,
+          215,
+          193
+        ],
+        "rewards": [
+          342,
+          420,
+          674,
+          374,
+          0,
+          35,
+          20,
+          280,
+          236
+        ],
+        "totals": {
+          "spent": 1812,
+          "rewards": 2381
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          123,
+          245,
+          98
+        ],
+        "rewards": [
+          96,
+          340,
+          48
+        ],
+        "totals": {
+          "spent": 466,
+          "rewards": 484
+        }
+      },
+      {
+        "count": 1,
+        "spent": [
+          166
+        ],
+        "rewards": [
+          182
+        ],
+        "totals": {
+          "spent": 166,
+          "rewards": 182
+        }
+      }
+    ]
+  },
+  {
+    "username": "adelice_elisa",
+    "firstName": "Adelice",
+    "lastName": "Elisa",
+    "amounts": [
+      {
+        "count": 5,
+        "spent": [
+          84,
+          30,
+          398,
+          74,
+          56
+        ],
+        "rewards": [
+          34,
+          0,
+          646,
+          24,
+          6
+        ],
+        "totals": {
+          "spent": 642,
+          "rewards": 710
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          334,
+          205
+        ],
+        "rewards": [
+          518,
+          260
+        ],
+        "totals": {
+          "spent": 539,
+          "rewards": 778
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          56,
+          203,
+          67,
+          105
+        ],
+        "rewards": [
+          6,
+          256,
+          17,
+          60
+        ],
+        "totals": {
+          "spent": 431,
+          "rewards": 339
+        }
+      }
+    ]
+  },
+  {
+    "username": "flore_salli",
+    "firstName": "Flore",
+    "lastName": "Salli",
+    "amounts": [
+      {
+        "count": 8,
+        "spent": [
+          154,
+          88,
+          447,
+          49,
+          149,
+          236,
+          44,
+          210
+        ],
+        "rewards": [
+          158,
+          38,
+          744,
+          0,
+          148,
+          322,
+          0,
+          270
+        ],
+        "totals": {
+          "spent": 1377,
+          "rewards": 1680
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          20,
+          23,
+          96
+        ],
+        "rewards": [
+          0,
+          0,
+          46
+        ],
+        "totals": {
+          "spent": 139,
+          "rewards": 46
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          159,
+          30,
+          192
+        ],
+        "rewards": [
+          168,
+          0,
+          234
+        ],
+        "totals": {
+          "spent": 381,
+          "rewards": 402
+        }
+      }
+    ]
+  },
+  {
+    "username": "danette_alyss",
+    "firstName": "Danette",
+    "lastName": "Alyss",
+    "amounts": [
+      {
+        "count": 5,
+        "spent": [
+          31,
+          48,
+          359,
+          176,
+          176
+        ],
+        "rewards": [
+          0,
+          0,
+          568,
+          202,
+          202
+        ],
+        "totals": {
+          "spent": 790,
+          "rewards": 972
+        }
+      },
+      {
+        "count": 4,
+        "spent": [
+          287,
+          40,
+          221,
+          205
+        ],
+        "rewards": [
+          424,
+          0,
+          292,
+          260
+        ],
+        "totals": {
+          "spent": 753,
+          "rewards": 976
+        }
+      },
+      {
+        "count": 7,
+        "spent": [
+          93,
+          43,
+          87,
+          62,
+          21,
+          190,
+          20
+        ],
+        "rewards": [
+          43,
+          0,
+          37,
+          12,
+          0,
+          230,
+          0
+        ],
+        "totals": {
+          "spent": 516,
+          "rewards": 322
+        }
+      }
+    ]
+  },
+  {
+    "username": "tybi_dulcinea",
+    "firstName": "Tybi",
+    "lastName": "Dulcinea",
+    "amounts": [
+      {
+        "count": 1,
+        "spent": [
+          62
+        ],
+        "rewards": [
+          12
+        ],
+        "totals": {
+          "spent": 62,
+          "rewards": 12
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          169,
+          121,
+          11,
+          92,
+          346
+        ],
+        "rewards": [
+          188,
+          92,
+          0,
+          42,
+          542
+        ],
+        "totals": {
+          "spent": 739,
+          "rewards": 864
+        }
+      },
+      {
+        "count": 5,
+        "spent": [
+          30,
+          44,
+          91,
+          83,
+          233
+        ],
+        "rewards": [
+          0,
+          0,
+          41,
+          33,
+          316
+        ],
+        "totals": {
+          "spent": 481,
+          "rewards": 390
+        }
+      }
+    ]
+  },
+  {
+    "username": "veronique_leanor",
+    "firstName": "Veronique",
+    "lastName": "Leanor",
+    "amounts": [
+      {
+        "count": 2,
+        "spent": [
+          57,
+          103
+        ],
+        "rewards": [
+          7,
+          56
+        ],
+        "totals": {
+          "spent": 160,
+          "rewards": 63
+        }
+      },
+      {
+        "count": 2,
+        "spent": [
+          104,
+          281
+        ],
+        "rewards": [
+          58,
+          412
+        ],
+        "totals": {
+          "spent": 385,
+          "rewards": 470
+        }
+      },
+      {
+        "count": 3,
+        "spent": [
+          68,
+          18,
+          295
+        ],
+        "rewards": [
+          18,
+          0,
+          440
+        ],
+        "totals": {
+          "spent": 381,
+          "rewards": 458
+        }
+      }
+    ]
+  }
+]
