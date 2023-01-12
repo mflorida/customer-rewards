@@ -4,21 +4,23 @@
 
 This demo app will display a generated dataset of customers and random purchase data, calculate their accrued 
 rewards points based on dollars spent per transaction, per month, and overall total, and display the 
-resulting data in a table.
+resulting data in a table. The data is stored in a static JSON file but is dynamically fetched on-the-fly and
+used to populate the page with the React UI components.
 
-A demo can be viewed here: [https://mflorida.github.io/demos/customer-rewards/](https://mflorida.github.io/demos/customer-rewards/)
+The calculations used are as follows:
+ - 0 points for transactions less than $50
+ - 1 point for every dollar spent over $50 (up to 50 points max)
+ - 2 points for every dollar spent over $100
 
 ### Run locally
 
-To run the app under Node.js using the pre-generated data (in the `/public/data` folder), simply
-run `yarn install` to make sure necessary dependencies are installed, then `npm start` from the project's root folder.
+To run this locally, clone this repo, install the dependencies `npm install` and start the dev server `npm run start`.
+
+> NodeJS must be installed - version 16 or higher is recommended.
 
 ### Generate new customer data
 
-To generate a new customer dataset, either manually execute `/utils/createRewardsData.js`, or execute `run.sh` from the
-project root, which will generate new data and start the demo server on your local machine at `http://localhost:3000`.
-
-### Build and deploy
-
-To build a new deployable application, run `yarn build` or to build then copy to the `demo` folder for uploading
-to the repo, run the `build-demo.sh` script.
+To generate a new customer dataset, run `node ./utils/createRewardsData.js`. This will generate two JSON files: one
+with randomly generated names (`./public/data/customers.json`) and another with randomly generated purchase amounts
+(`./public/data/customerData.json`) which are then used to calculate rewards points per transaction as well as totals 
+per month.
