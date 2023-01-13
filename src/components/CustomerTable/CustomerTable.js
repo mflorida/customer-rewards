@@ -33,8 +33,11 @@ export function CustomerTable() {
     })();
 
     return () => {
-      // kill fetch when component unmounts
-      controller.abort();
+      // kill fetch when component unmounts?
+      // (wait 5 seconds in an attempt to avoid an error)
+      setTimeout(() => {
+        controller.abort();
+      }, 5000);
     };
 
   }, []);

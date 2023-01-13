@@ -1,3 +1,4 @@
+import { Fragment } from 'react';
 import { DetailsLink } from './DetailsLink';
 import style from './style.module.scss';
 
@@ -8,30 +9,21 @@ function sumAmounts(input) {
 
 export function CustomerRow(props) {
 
-  const { count, customer } = props;
-
-  console.log(count, customer.amounts);
-
+  const { customer } = props;
   const amounts = customer.amounts;
 
   const customerTotals = {
-    spent: amounts.map((item, i) => {
+    spent: sumAmounts(amounts.map((item) => {
       return item.totals.spent;
-    }).reduce((prev, curr) => prev + curr),
-    rewards: amounts.map((item, i) => {
+    })),
+    rewards: sumAmounts(amounts.map((item) => {
       return item.totals.rewards;
-    }).reduce((prev, curr) => prev + curr)
+    }))
   };
 
-  const monthlyTotals = amounts.map(function(mo, i) {
+  const monthlyTotals = amounts.map(function(mo) {
     return {
-      spentx: mo.spent.reduce(function(prev, curr) {
-        return prev + curr;
-      }),
       spent: sumAmounts(mo.spent),
-      rewardsx: mo.rewards.reduce(function(prev, curr) {
-        return prev + curr;
-      }),
       rewards: sumAmounts(mo.rewards)
     };
   });
@@ -43,11 +35,11 @@ export function CustomerRow(props) {
         paddingLeft: '10px'
       }}>{`${customer.firstName} ${customer.lastName}`}</td>
       {monthlyTotals.map((item, i) => (
-        <>
+        <Fragment key={i}>
           <td>${item.spent}</td>
           <td>{item.rewards} pts</td>
           <td className={style.textCenter}><DetailsLink amounts={amounts[i]}>details</DetailsLink></td>
-        </>
+        </Fragment>
       ))}
       <td>${customerTotals.spent}</td>
       <td>{customerTotals.rewards}</td>
