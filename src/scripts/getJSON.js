@@ -6,21 +6,11 @@
  * @returns {Promise<{data: any, response: Response}>}
  */
 export async function getJSON(url, opts = {}) {
-
   if (!url) {
     throw new Error('URL is required');
   }
 
-  const doRequest = async () => {
-    try {
-      return await fetch(url, opts)
-    }
-    catch (e) {
-      throw new Error(e);
-    }
-  };
-
-  const response = await doRequest();
+  const response = await doRequest(url, opts);
 
   if (!response.ok) {
     throw new Error(response.statusText);
@@ -31,5 +21,14 @@ export async function getJSON(url, opts = {}) {
   return {
     data,
     response
+  }
+}
+
+async function doRequest(url, opts){
+  try {
+    return await fetch(url, opts)
+  }
+  catch (e) {
+    throw new Error(e);
   }
 }
