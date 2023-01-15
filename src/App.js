@@ -7,7 +7,9 @@ export default function App() {
 
       <Container>
         <Row>
-          <h2 className={'text-white'} style={{ margin: '20px auto 10px', textAlign: 'center' }}>Customer Rewards Data</h2>
+          <h2 className={'text-white'} style={{ margin: '20px auto 10px', textAlign: 'center' }}>
+            Customer Rewards Data
+          </h2>
         </Row>
         <Row style={{ margin: 0 }}>
           <p className={'text-white'} style={{ margin: '0 auto 20px', textAlign: 'center' }}>
