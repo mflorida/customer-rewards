@@ -16,7 +16,6 @@ export default function App() {
             Click the 'details' links to reveal rewards data per customer per month.
           </p>
         </Row>
-        {/*<Row style={{ borderBottom: '1px solid #ccc' }}/>*/}
         <Row style={{ paddingTop: '20px' }}>
           <Col style={{ padding: 0 }}>
 
