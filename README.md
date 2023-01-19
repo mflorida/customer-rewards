@@ -3,9 +3,11 @@
 ### About
 
 This demo app will display a generated dataset of customers and random purchase data, calculate their accrued 
-rewards points based on dollars spent per transaction, per month, and overall total, and display the 
-resulting data in a table. The data is stored in a static JSON file but is dynamically fetched on-the-fly and
-used to populate the page with the React UI components.
+rewards points based on dollars spent per purchase, per month, and overall total, and display the resulting
+data in a table. 
+
+The rewards points data is calculated beforehand and stored in a static JSON file that is 
+fetched on-the-fly via HTTP request and used as the data source for the table rendered with React.
 
 The calculations used are as follows:
  - 0 points for transactions less than $50
